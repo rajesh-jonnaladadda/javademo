@@ -33,5 +33,4 @@ jobs:
       - name: Package Application
         run: mvn package
 
-      - name: Run Java Application
-        run: java -cp target/classes App   
+     
